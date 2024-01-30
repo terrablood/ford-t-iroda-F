@@ -62,5 +62,3 @@ having count(s.nev) = 2
 ;
 
 8.
-
-
